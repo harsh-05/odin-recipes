@@ -1,5 +1,5 @@
 # odin-recipes
 
-This is basic static webpage and have links to another relative pages where the info about various recipes will be given accordingly.
+This is a static website contains few recipes such as Paneer tikka, Pani Puri, Misal Pav, Gajar Halwa.
 
-here I use only HTML to showcase the features that I learn from TOP till this date.
+In the Future I will add all the Indian recipes including their method of cooking. And Recipes will be find according to ingredients.
